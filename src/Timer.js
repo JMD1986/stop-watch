@@ -24,7 +24,7 @@ class Timer extends Component {
       <div>
         <p>You have been on this site since: </p> <br />
         <span> {clock}</span>
-        <p>Seconds.</p>
+        <p>Seconds .</p>
       </div>
     );
   }
